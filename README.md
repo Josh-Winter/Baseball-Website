@@ -21,5 +21,5 @@ This project uses C++, PHP, JavaScript, HTML and CSS
 ### Credit
 The templates of process.php and baseball.cpp were created by my proffesor Lisa Dion.
 ### Future:
-In the future I could add more information about each team as well as clean upp the css a little. I could also always add
+In the future I could add more information about each team as well as clean upp the CSS a little. I could also always add
 more Teams to select.
