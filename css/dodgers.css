@@ -1,34 +1,30 @@
-/* CSS for Yankees page */
+/* CSS for Dodgers page */
 html{
 	background-color: #C4CED3;
 }
 
-.yankeesHeader{
-	font-size: 35px;
+.dodgersHeader{
 	font-family: Helvetica, sans-serif;
+	font-size: 250%;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: white;
-	background-color: #0C2340;
-	border: 10px solid white;
+	background-color: #005A9C;
+	border: 10px solid #EF3E42;
 	margin-left: -10px;
 	margin-right: -10px;
 }
 
 body {
 	margin: 1%;
-
 }
-
-
-
 
 article {
 	float: right;
-	border: 10px solid white;
-	background-color: #0C2340;
-	color: white;
+	border: 10px solid #EF3E42;
+	background-color: #005A9C;
+color: white;
 	padding: 20px;
 	margin: 5%;
 	width: 25%;
@@ -36,7 +32,7 @@ article {
 }
 iframe{
 	margin: 5%;
-	border: 10px solid white;
+	border: 10px solid #EF3E42;
 	text-align: center;
 
 }
@@ -46,15 +42,15 @@ footer{
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: white;
-	background-color: #0C2340;
-	border: 10px solid white;
+	background-color: #005A9C;
+	border: 10px solid #EF3E42;
 }
-
 a{
 	color: greenyellow;
 }
 a:visited{
 	color: hotpink;
 }
+
 
 

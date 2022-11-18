@@ -1,42 +1,38 @@
-/* CSS for Yankees page */
+/* CSS for Red Sox */
 html{
-	background-color: #C4CED3;
+	background-color: #C4CED3; /* change background color*/
 }
-
-.yankeesHeader{
-	font-size: 35px;
-	font-family: Helvetica, sans-serif;
+/* red sox spec header */
+.redsoxHeader{
+	font-family: Helvetica, sans-serif; /* select font */
+	font-size: 250%;
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	color: white;
-	background-color: #0C2340;
-	border: 10px solid white;
+	background-color: #BD3039;
+	border: 10px solid #0C2340;
 	margin-left: -10px;
 	margin-right: -10px;
 }
-
 body {
 	margin: 1%;
-
 }
-
-
-
 
 article {
 	float: right;
-	border: 10px solid white;
-	background-color: #0C2340;
-	color: white;
+	border: 10px solid #0C2340;
 	padding: 20px;
 	margin: 5%;
 	width: 25%;
+	color: white;
 	text-align: center;
+	background-color: #BD3039;
+
 }
 iframe{
 	margin: 5%;
-	border: 10px solid white;
+	border: 10px solid #0C2340;
 	text-align: center;
 
 }
@@ -45,11 +41,10 @@ footer{
 	text-align: center;
 	padding-top: 10px;
 	padding-bottom: 10px;
+	background-color: #BD3039;
+	border: 10px solid #0C2340;
 	color: white;
-	background-color: #0C2340;
-	border: 10px solid white;
 }
-
 a{
 	color: greenyellow;
 }
