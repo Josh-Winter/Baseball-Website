@@ -3,7 +3,9 @@
 ## Description:
 ### Introduction:
 This website was originally made for my Advanced Programing class at the University of Vermont. I decided to combine my love of baseball (specifically
-the Yankees) and the concepts I had learned in advanced programming and other computer science classes I have taken at UVM.
+the Yankees) and the concepts I had learned in advanced programming and other computer science classes I have taken at UVM to create a website to show
+case the stats and stadiums of 4 baseball teams. These 4 ball clubs include the 27 time world series champion New York Yankees, the New York Mets, the
+Boston Red Sox and the Los Angeles Dodgers.
 ### Instructions:
 This project is a website. To test it download the zip and transfer folder to a webserver with a file transfer program
 like Filezila. Alternatively you can view the version I have running on my webserver linked here: https://jawinter.w3.uvm.edu/cs120/baseball.html
