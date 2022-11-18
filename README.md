@@ -1,6 +1,9 @@
 # Baseball Website
 ### by Josh Winter
 ## Description:
+### Introduction:
+This website was originally made for my Advanced Programing class at the University of Vermont. I decided to combine my love of baseball (specifically
+the Yankees) and the concepts I had learned in advanced programming and other computer science classes I have taken at UVM.
 ### Instructions:
 This project is a website. To test it download the zip and transfer folder to a webserver with a file transfer program
 like Filezila. Alternatively you can view the version I have running on my webserver linked here: https://jawinter.w3.uvm.edu/cs120/baseball.html
@@ -13,6 +16,8 @@ unique JavaScript for each team of a Google Maps view of their stadium. On the f
 and a link to the homepage so the user can check out another team.
 ### Languages:
 This project uses C++, PHP, JavaScript, HTML and CSS
+### Credit
+The templates of process.php and baseball.cpp were created by my proffesor Lisa Dion.
 ### Future:
 In the future I could add more information about each team as well as clean upp the css a little. I could also always add
 more Teams to select.
