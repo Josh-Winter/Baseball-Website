@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> <!-- head data of website for meta data -->
+        <meta charset="utf-8">
+        <meta name="author" content="Josh Winter">
+        <title>Baseball</title>
+        <meta name="description" content="This page allows you to chose a baseball team">
+        <link href="css/home.css" rel="stylesheet" type="text/css" media="screen" />
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    </head>
+
+    <body>
+        <!-- Header of home page -->
+    	<header class = "homeHeader">
+    		<h1>CS 120 Open Ended Project for Module 3</h1>
+    		<h2>Created by Josh Winter</h2>
+    	</header>
+        <!-- form for selection team using post -->
+        <form enctype="multipart/form-data" action="process.php" method="POST">
+        <label for="teams">Choose a baseball team:</label>
+            <!-- declaring var teams to be used in php -->
+            <select name="teams" id="teams">
+                <option value="01Yankees">New York Yankees</option>
+                <option value="02Mets">New York Mets</option>
+                <option value="03RedSox">Boston Red Sox</option>
+                <option value="04Dodgers">Los Angeles Dodgers</option>
+            </select>
+            <input type="submit" value="Submit" />
+        </form>
+        <!-- js clock section -->
+        <section class = "clock">
+            <h3 class="clock" > Your Local Time:</h3>
+            <p id = "clock" onload="currentTime()"></p>
+            <script class = "clockScript" src="javascript/clock.js"></script>
+        </section>
+
+    </body>
+</html>
