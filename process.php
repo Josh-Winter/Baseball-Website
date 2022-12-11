@@ -84,6 +84,6 @@
         <!--source for stats-->
             <p>All stats are from <a href="https://www.baseball-reference.com/" target="_blank">Baseball Reference</a></p>
             <!-- homepage link -->
-            <p><a href="https://jawinter.w3.uvm.edu/cs120/baseball.html">Click here to return home!</a></p>
+            <p><a href="https://jawinter.w3.uvm.edu/cs120/baseball/baseball.html">Click here to return home!</a></p>
         </footer> <!-- close footer tag -->
 </html>
