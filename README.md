@@ -8,7 +8,7 @@ case the stats and stadiums of 4 baseball teams. These 4 ball clubs include the 
 Boston Red Sox and the Los Angeles Dodgers.
 ### Instructions:
 This project is a website. To test it download the zip and transfer folder to a webserver with a file transfer program
-like Filezila. Alternatively you can view the version I have running on my webserver linked here: https://jawinter.w3.uvm.edu/cs120/baseball.html
+like Filezila. Alternatively you can view the version I have running on my webserver linked here: https://jawinter.w3.uvm.edu/cs120/baseball/baseball.html
 ### Overview:
 This project combines multiple languages to make a changing website based on user's selection. When the user first launches
 the website they are greeted by the home page. The homepage features a JavaScript clock designed by me and a selection menu featuring
